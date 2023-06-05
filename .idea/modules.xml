@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction-practical/Abstraction-practical.iml" filepath="$PROJECT_DIR$/Abstraction-practical/Abstraction-practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsExamplle/ArrayList-Collections.iml" filepath="$PROJECT_DIR$/CollectionsExamplle/ArrayList-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection-practical/Collection-practical.iml" filepath="$PROJECT_DIR$/Collection-practical/Collection-practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation-Practical/Encapsulation-Practical.iml" filepath="$PROJECT_DIR$/Encapsulation-Practical/Encapsulation-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum-practical/Enum-practical.iml" filepath="$PROJECT_DIR$/Enum-practical/Enum-practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOStream-File/IOStream-File.iml" filepath="$PROJECT_DIR$/IOStream-File/IOStream-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance-practical/Inheritance-practical.iml" filepath="$PROJECT_DIR$/Inheritance-practical/Inheritance-practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Time-Practical/Java-Time-Practical.iml" filepath="$PROJECT_DIR$/Java-Time-Practical/Java-Time-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-practice.iml" filepath="$PROJECT_DIR$/.idea/Java-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda-expression/Lambda-expression.iml" filepath="$PROJECT_DIR$/Lambda-expression/Lambda-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_expression_practical/Lambda_expression_practical.iml" filepath="$PROJECT_DIR$/Lambda_expression_practical/Lambda_expression_practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NativeMethods/NativeMethods.iml" filepath="$PROJECT_DIR$/NativeMethods/NativeMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectClonning/ObjectClonning.iml" filepath="$PROJECT_DIR$/ObjectClonning/ObjectClonning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable-Practical.iml" filepath="$PROJECT_DIR$/Runnable/Runnable-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization-De/Serialization-De.iml" filepath="$PROJECT_DIR$/Serialization-De/Serialization-De.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort-Practical/Sort-Practical.iml" filepath="$PROJECT_DIR$/Sort-Practical/Sort-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/Static-practical.iml" filepath="$PROJECT_DIR$/static/Static-practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream-Practical/Stream-Practical.iml" filepath="$PROJECT_DIR$/Stream-Practical/Stream-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_Practical/String_Practical.iml" filepath="$PROJECT_DIR$/String_Practical/String_Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread-Practical/Thread-Practical.iml" filepath="$PROJECT_DIR$/Thread-Practical/Thread-Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treeset-practice/Treeset-practice.iml" filepath="$PROJECT_DIR$/Treeset-practice/Treeset-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor/constructor.iml" filepath="$PROJECT_DIR$/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleOfObject/exampleOfObject.iml" filepath="$PROJECT_DIR$/exampleOfObject/exampleOfObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashtable/hashtable.iml" filepath="$PROJECT_DIR$/hashtable/hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-reflection/java-reflection.iml" filepath="$PROJECT_DIR$/java-reflection/java-reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-time/java-time.iml" filepath="$PROJECT_DIR$/java-time/java-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlistExample/linkedlistExample.iml" filepath="$PROJECT_DIR$/linkedlistExample/linkedlistExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigable/navigable.iml" filepath="$PROJECT_DIR$/navigable/navigable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-collection/practice-collection.iml" filepath="$PROJECT_DIR$/practice-collection/practice-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sets/sets.iml" filepath="$PROJECT_DIR$/sets/sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/super.iml" filepath="$PROJECT_DIR$/super/super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this-keyword/this-keyword.iml" filepath="$PROJECT_DIR$/this-keyword/this-keyword.iml" />
+    </modules>
+  </component>
+</project>

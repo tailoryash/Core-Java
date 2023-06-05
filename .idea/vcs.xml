@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Abstraction-practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Collection-practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Encapsulation-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enum-practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exception-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IOStream-File" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Inheritance-practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-Time-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lambda_expression_practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Polymorphism" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Runnable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sort-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stream-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String_Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thread-Practical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/concurrency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/static" vcs="Git" />
+  </component>
+</project>
